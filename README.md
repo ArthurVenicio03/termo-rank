@@ -29,7 +29,7 @@ https://user-images.githubusercontent.com/60361387/150683987-53251c14-db20-4691-
 
 > O estilo do projeto é baseado nas folhas de estilo do [Termo](https://term.ooo) criadas por [Fernando Serboncini](https://fserb.com).
 
-## 🙏 Agradecimentos
 
-- [Fernando Serboncini](https://fserb.com) por desenvolver o [Termo](https://term.ooo)
-- [Rafael Omiya](https://github.com/rafomiya) pela ideia/desafio do ranking
+ARTHUR VENICIO SANTOS DE OLIVEIRA SILVA
+
+https://github.com/ArthurVenicio03
